@@ -23295,6 +23295,7 @@ cr.getObjectRefTable = function () { return [
 	cr.behaviors.Platform.prototype.cnds.IsOnFloor,
 	cr.plugins_.Keyboard.prototype.cnds.OnKey,
 	cr.plugins_.Sprite.prototype.acts.Spawn,
+	cr.plugins_.Audio.prototype.acts.Play,
 	cr.plugins_.Sprite.prototype.cnds.IsMirrored,
 	cr.behaviors.Bullet.prototype.acts.SetSpeed,
 	cr.behaviors.Bullet.prototype.exps.Speed,

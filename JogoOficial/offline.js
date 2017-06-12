@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1497271888,
+	"version": 1497274978,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -32,6 +32,10 @@
 		"images/sprite11-sheet0.png",
 		"media/laser1.m4a",
 		"media/laser1.ogg",
+		"media/som-de-moeda-do-sonic-mp3.m4a",
+		"media/som-de-moeda-do-sonic-mp3.ogg",
+		"media/86026__harpoyume__explosion-3.m4a",
+		"media/86026__harpoyume__explosion-3.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
