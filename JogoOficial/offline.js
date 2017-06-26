@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1498044043,
+	"version": 1498487613,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -30,6 +30,8 @@
 		"images/sprite9-sheet0.png",
 		"images/sprite10-sheet0.png",
 		"images/sprite11-sheet0.png",
+		"images/sprite12-sheet0.png",
+		"images/sprite13-sheet0.png",
 		"media/laser1.m4a",
 		"media/laser1.ogg",
 		"media/som-de-moeda-do-sonic-mp3.m4a",
