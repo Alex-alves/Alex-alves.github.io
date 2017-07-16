@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1499234172
+#1500174779
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -45,10 +45,10 @@ images/sprite4-sheet1.png
 images/sprite8-sheet0.png
 images/fundo-sheet0.png
 images/botãovoltar-sheet0.png
-images/teladeinformações1-sheet0.png
-images/creditos-sheet0.png
 images/sprite9-sheet0.png
 images/sound-sheet0.png
+images/teladeinfo1-sheet0.png
+images/creditos-sheet0.png
 media/laser1.m4a
 media/laser1.ogg
 media/som-de-moeda-do-sonic-mp3.m4a
@@ -70,6 +70,7 @@ media/the%20last%20of%20us%20trilha%20sonora%201%20(online-audio-converter.com).
 media/345666__mattix145__game-over-voice-effect-01.m4a
 media/345666__mattix145__game-over-voice-effect-01.ogg
 media/assassin39s%20creed%202%20(2009)%20venice%20escape%20(soundtrack%20ost)%20(online-audio-converter.com).ogg
+media/game%20over%20joelma%20calypso%20nova%20músicanovo%20cd-%20(online-audio-converter.com).ogg
 icon-16.png
 icon-32.png
 icon-114.png

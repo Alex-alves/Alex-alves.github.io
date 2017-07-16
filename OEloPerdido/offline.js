@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1499234172,
+	"version": 1500174779,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -46,10 +46,10 @@
 		"images/sprite8-sheet0.png",
 		"images/fundo-sheet0.png",
 		"images/botãovoltar-sheet0.png",
-		"images/teladeinformações1-sheet0.png",
-		"images/creditos-sheet0.png",
 		"images/sprite9-sheet0.png",
 		"images/sound-sheet0.png",
+		"images/teladeinfo1-sheet0.png",
+		"images/creditos-sheet0.png",
 		"media/laser1.m4a",
 		"media/laser1.ogg",
 		"media/som-de-moeda-do-sonic-mp3.m4a",
@@ -71,6 +71,7 @@
 		"media/345666__mattix145__game-over-voice-effect-01.m4a",
 		"media/345666__mattix145__game-over-voice-effect-01.ogg",
 		"media/assassin39s creed 2 (2009) venice escape (soundtrack ost) (online-audio-converter.com).ogg",
+		"media/game over joelma calypso nova músicanovo cd- (online-audio-converter.com).ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
