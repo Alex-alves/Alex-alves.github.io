@@ -12,13 +12,11 @@ Alexsandro Alves, Discente do curso de Programação de Jogos Digitais <3
 
 ## *Games*
 
-![](Capa.jpg)
+[![](Capa.jpg)](https://alex-alves.github.io/OEloPerdido/)
 
-[![](Capa.jpg)](https://alex-alves.github.io/OEloPerdido/).
+[Quiz de Memes](https://alex-alves.github.io/AOD/)
 
-[Quiz de Memes](https://alex-alves.github.io/AOD/).
-
-[Protecting my Mouth](https://alex-alves.github.io/TD/).
+[Protecting my Mouth](https://alex-alves.github.io/TD/)
 
 ## *Artes*
 
