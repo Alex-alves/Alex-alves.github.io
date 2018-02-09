@@ -12,7 +12,9 @@ Alexsandro Alves, Discente do curso de Programação de Jogos Digitais <3
 
 ## *Games*
 
-[O Elo Perdido](https://alex-alves.github.io/OEloPerdido/).
+![](Capa.jpg)
+
+[![](Capa.jpg)](https://alex-alves.github.io/OEloPerdido/).
 
 [Quiz de Memes](https://alex-alves.github.io/AOD/).
 
