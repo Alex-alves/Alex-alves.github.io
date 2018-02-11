@@ -19,9 +19,6 @@ Alexsandro Alves, Discente do curso de Programação de Jogos Digitais <3
 [Protecting my Mouth](https://alex-alves.github.io/TD/)
 
 ## *Artes*
-
-![kiuuu](https://opengameart.org/sites/default/files/heart%20pixel%20art%20254x254.png)  
-![kiuuu](https://opengameart.org/sites/default/files/heart%20pixel%20art%20254x254.png)  
  
 ## *Apresentações*
 
