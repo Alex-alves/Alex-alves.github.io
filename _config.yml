@@ -2,7 +2,7 @@
 title: Portfólio
 email: alexsandroalves80@gmail.com
 url: https://alex-alves.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Site destinado para o expor o meu Portfólio, sou Discente do curso de programação de Jogos Digitais, e nesse site você conhecerá um pouco das minhas criações."
 keywords: "your keywords, separated by commas"
 skills: "Designer Gráfico - Publicitário - Desenvolvedor de Jogos Digitais"
 meta_author: Alves Alexsandro
@@ -33,7 +33,6 @@ color:
 # Footer settings
 footer:
 
-  endereço: Endereço
   social: Redes Sociais
 
 # Números de usuários de redes sociais (muitos mais disponíveis: google-plus, instagram, linkedin, etc.)
@@ -43,10 +42,6 @@ social :
   - título : instagram
     url : https://www.instagram.com/alex_alves3/
 
-# endereço (adicione tantas linhas quanto necessário)
-endereço :
-  - linha : Ceará-Mirim 
-  - linha : Rio Grande do Norte, Brasil
 
 # Build settings
 markdown: kramdown
