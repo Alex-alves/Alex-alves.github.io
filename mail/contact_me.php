@@ -2,29 +2,29 @@
 $email_address = filter_var($_POST['email'], FILTER_VALIDATE_EMAIL);
 
 // Check for empty fields
-if(empty($_POST['name'])  		||
+if(empty($_POST['nome'])  		||
    empty($_POST['email']) 		||
-   empty($_POST['phone']) 		||
-   empty($_POST['message'])	||
+   empty($_POST['telefone']) 		||
+   empty($_POST['mensagem'])	||
    !$email_address)
    {
 	echo "No arguments Provided!";
 	return false;
    }
 
-$name = $_POST['name'];
+$name = $_POST['nome'];
 if ($email_address === FALSE) {
     echo 'Invalid email';
     exit(1);
 }
-$phone = $_POST['phone'];
-$message = $_POST['message'];
+$phone = $_POST['telefone'];
+$message = $_POST['mensagem'];
 
 
 // Create the email and send the message
-$to = 'yourname@yourdomain.com'; // Add your email address inbetween the '' replacing yourname@yourdomain.com - This is where the form will send a message to.
-$email_subject = "Website Contact Form:  $name";
-$email_body = "You have received a new message from your website contact form.\n\n"."Here are the details:\n\nName: $name\n\nEmail: $email_address\n\nPhone: $phone\n\nMessage:\n$message";
+$to = 'alexsandroalves80@gmail.com'; // Add your email address inbetween the '' replacing yourname@yourdomain.com - This is where the form will send a message to.
+$email_subject = "Formulário de contato do site:  $name";
+$email_body = "Você recebeu uma nova mensagem do formulário de contato do seu site.\n\n"."Aqui estão os detalhes:\n\nName: $name\n\nEmail: $email_address\n\nPhone: $phone\n\nMessage:\n$message";
 $headers = "From: noreply@yourdomain.com\n"; // This is the email address the generated message will be from. We recommend using something like noreply@yourdomain.com.
 $headers .= "Reply-To: $email_address";
 mail($to,$email_subject,$email_body,$headers);
