@@ -7,6 +7,6 @@ alt: image-alt
 project-date: 2017
 client: Oficina de Criação
 category: Desenvolvimento de Jogos Digitais
-description: Jogo desenvolvido a partir do tema "Mensagem" no qual o ponto de partida para a criação do jogo são os memes que tem sido muito difundido no seculo XXI. link do jogo:[Desafio dos Memes:("https://alex-alves.github.io/AOD/")].
+description: Jogo desenvolvido a partir do tema "Mensagem" no qual o ponto de partida para a criação do jogo são os memes que tem sido muito difundido no seculo XXI. link do jogo:[Desafio dos Memes:]("https://alex-alves.github.io/AOD/").
 
 ---
