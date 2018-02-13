@@ -7,6 +7,6 @@ alt: image-alt
 project-date: 2017
 Disciplina: Oficina de Criação
 categoria: Desenvolvimento de Jogos Digitais
-descrição: Jogo desenvolvido a partir do tema "Mensagem" no qual o ponto de partida para a criação do jogo são os memes que tem sido muito difundido no seculo XXI. link do jogo:https://alex-alves.github.io/AOD/.
+descrição: Jogo desenvolvido a partir do tema "Mensagem" no qual o ponto de partida para a criação do jogo são os memes que tem sido muito difundido no seculo XXI. link do jogo:(https://alex-alves.github.io/AOD/).
 
 ---
