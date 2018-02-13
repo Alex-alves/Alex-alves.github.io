@@ -33,7 +33,7 @@ color:
 # Footer settings
 footer:
 
-  location: Endereço
+  endereço: Endereço
   social: Redes Sociais
 
 # Números de usuários de redes sociais (muitos mais disponíveis: google-plus, instagram, linkedin, etc.)
@@ -43,7 +43,7 @@ social :
   - título : instagram
     url : https://www.instagram.com/alex_alves3/
 
-# location (adicione tantas linhas quanto necessário)
+# endereço (adicione tantas linhas quanto necessário)
 endereço :
   - linha : Ceará-Mirim 
   - linha : Rio Grande do Norte, Brasil
