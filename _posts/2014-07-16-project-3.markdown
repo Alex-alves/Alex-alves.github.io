@@ -1,12 +1,36 @@
 ---
 layout: default
 modal-id: 3
-date: 2014-07-16
+date: Durante a vida a acadêmica 
 img: circus.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+project-date: 2015
+client: Start: IFRN
+category: Minhas as apresentações e Trabalhos desenvolvidos
+description: 
+## Participações em eventos como expositor
+
+**5º lugar** com o trabalho **O desenvolvimento de jogos digitais como forma de valorização de elementos culturais e históricos do município de Ceará-Mirim** no II Prêmio Empreendedorismo Inovador do IFRN  que ocorreu na III SECITEX- Semana de Ciência, Tecnologia e Extensão do Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte(2017).
+
+**V EXPOTEC APODI** (2017), como expositor na modalidade poster com projeto de pesquisa **JOGOS DIGITAIS COMO FONTE DE CONHECIMENTO DA CULTURA BUDISTA: EM FOCO O NIRVANA**. 
+
+**II semana de informática do campus Nova Cruz** (2018), como expositor na modalidade oral a cerca do curso de **jogos digitais e apresentar o JOGO "O ELO PERDIDO".**
+
+**I EXPOTEC CM** (2017), como expositor em apresentação na forma teatral do projeto de extensão **"Teatro e expressão" com a peça o "O auto do Julgamento"**
+
+
+## Projetos
+
+ Projeto de extensão Criação do Núcleo de Arte do Campus Ceará-Mirim - 2015.
+
+ Projeto de extensão Teatro e expressão - 2017.
+ 
+ Projeto de extensão Empreendedorismo S2S: Gameficação de alunos para alunos - 2018.
+ 
+ Projeto de Pesquisa JOGOS DIGITAIS COMO FONTE DE CONHECIMENTO DA CULTURA BUDISTA: EM FOCO O NIRVANA - 2017/2018.
+  
+ Projeto de Pesquisa INVESTIGAÇÃO AMOSTRAL SOBRE DST’S NO MUNICÍPIO DE CEARÁ-MIRIM - 2017/2018.
+ 
+ Projeto de Pesquisa PROTECTING MY MOUTH: UMA FERRAMENTA LÚDICA PARA O AUXÍLIO E PREVENÇÃO À PATOLOGIAS BUCAIS - 2017/2018.
 
 ---
