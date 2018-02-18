@@ -6,7 +6,7 @@ img: cabin.png
 alt: image-alt
 project-date: setembro de 2017
 client: Oficina de Criação
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://alex-alves.github.io/AOD/">Desafio dos Memes</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+category: desenvolvimento de jogos digitais
+description: Jogo eleborado a partir do tema "Mensagem", onde o jogador tem que ter noções desse novo conhecimento do século XXI que são os memes. Link: <a href="https://alex-alves.github.io/AOD/">Desafio dos Memes</a>.
 
 ---
