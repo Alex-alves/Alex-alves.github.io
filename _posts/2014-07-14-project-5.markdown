@@ -4,6 +4,6 @@ modal-id: 5
 date: 2014-07-14
 img: safe.png
 alt: image-alt
-
+description: Jogo com a temática saúde é um serious game, voltado para aprendizagem sobre as vitaminas, o jogo esta em desenvolvimento. Link <a href="https://alex-alves.github.io/VitaGame/">VitaGame</a>.
 
 ---
