@@ -1,12 +1,12 @@
 ---
 layout: default
 modal-id: 4
-date: 2014-07-15
+date: 2017-07-23
 img: game.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+project-date: julho 2017
+client: Oficina de Criação
+category: Desenvolvimento de Jogos Digitais
+description:  A partir do tema proposto na materia de oficina de criação, tive que elaborar um jogo em que abordasse o tema "cultura", e em cima desse tema busquei trabalhar com elementos da cultura da culinária nordestina, sempre visando em um jogo de entretenimento mas que mantivesse o foco no tema LINK<a href="https://alex-alves.github.io/OEloPerdido/">O Elo Perdido</a>.
 
 ---
