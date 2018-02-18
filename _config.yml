@@ -33,9 +33,9 @@ color:
 # Footer settings
 footer:
   
-  location: Location
-  social: Around the Web
-  credits: Credits
+  location: Localização
+  social: Redes Sociais
+  credits: Créditos
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
