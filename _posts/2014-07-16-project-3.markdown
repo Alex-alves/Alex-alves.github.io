@@ -1,14 +1,7 @@
 ---
 layout: default
-modal-id: 3
-date: Durante a vida a acadêmica 
 img: circus.png
-alt: image-alt
-project-date: 2015
-client: Start: IFRN
-category: Minhas as apresentações e Trabalhos desenvolvidos
-description: 
-**Participações em eventos como expositor**
+## Participações em eventos como expositor
 
 **5º lugar** com o trabalho **O desenvolvimento de jogos digitais como forma de valorização de elementos culturais e históricos do município de Ceará-Mirim** no II Prêmio Empreendedorismo Inovador do IFRN  que ocorreu na III SECITEX- Semana de Ciência, Tecnologia e Extensão do Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte(2017).
 
@@ -19,7 +12,7 @@ description:
 **I EXPOTEC CM** (2017), como expositor em apresentação na forma teatral do projeto de extensão **"Teatro e expressão" com a peça o "O auto do Julgamento"**
 
 
-**Projetos**
+## Projetos
 
  Projeto de extensão Criação do Núcleo de Arte do Campus Ceará-Mirim - 2015.
 
