@@ -3,7 +3,7 @@ title: Portfólio
 email: alexsandroalves007@hotmain.com
 url: https://alex-alves.github.io
 description: " Site desenvolvido para expor os trabalhos realizados por Alexsandro Alves."
-keywords: "your keywords, separated by commas"
+keywords: "Designer,desenvolvedor"
 skills: "Desenvolvedor de Jogos Digitais - Publicitário - Designer Gráfico"
 meta_author: Alves Alexsandro
 
@@ -32,7 +32,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  
   location: Location
   social: Around the Web
   credits: Credits
@@ -42,13 +42,9 @@ social:
   - title: twitter
     url: http://twitter.com/jekyllrb
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+    url: https://www.facebook.com/alexsandroalves007
+
+  
 
 # Postal address (add as many lines as necessary)
 address:
