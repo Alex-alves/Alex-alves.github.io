@@ -7,6 +7,6 @@ alt: image-alt
 project-date: setembro de 2017
 client: Web Development
 category: desenvolvimento de jogos digitais
-description: Jogo elaborado a partir do tema Mensagem, onde o jogador tem que ter noções desse novo conhecimento do século XXI que são os memes. Link: <a href="https://alex-alves.github.io/AOD/">Desafio dos Memes</>.
+description: Jogo elaborado a partir do tema Mensagem, onde o jogador tem que ter noções desse novo conhecimento do século XXI que são os memes. Link: <a href="https://alex-alves.github.io/AOD/">Desafio dos Memes</a>.
 
 ---
