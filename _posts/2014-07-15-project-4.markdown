@@ -7,6 +7,6 @@ alt: image-alt
 project-date: julho 2017
 client: Oficina de Criação
 category: Desenvolvimento de Jogos Digitais
-description:  A partir do tema proposto na materia de oficina de criação, tive que elaborar um jogo em que abordasse o tema "cultura", e em cima desse tema busquei trabalhar com elementos da cultura da culinária nordestina, sempre visando em um jogo de entretenimento mas que mantivesse o foco no tema LINK<a href="https://alex-alves.github.io/OEloPerdido/">O Elo Perdido</a>.
+description:  A partir do tema proposto na materia de oficina de criação, tive que elaborar um jogo em que abordasse o tema "cultura", e em cima desse tema busquei trabalhar com elementos da cultura da culinária nordestina, sempre visando em um jogo de entretenimento mas que mantivesse o foco no tema. Link: <a href="https://alex-alves.github.io/OEloPerdido/">O Elo Perdido</a>.
 
 ---
